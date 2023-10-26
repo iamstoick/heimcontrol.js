@@ -17,7 +17,7 @@
     "rasp2c": "= 0.0.1",
     "cookie": "= 0.1.0",
     "pi-gpio": "= 0.0.2",
-    "ping": "= 0.1.7",
+    "ping": "0.4.4",
     "wake_on_lan": "= 0.0.3",
     "delivery": "= 0.0.3",
     "duino": "https://github.com/ni-c/duino/tarball/master"
