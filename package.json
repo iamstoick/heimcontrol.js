@@ -15,7 +15,7 @@
     "socket.io": "= 0.9.16",
     "node-conf": "= 0.0.6",
     "rasp2c": "= 0.0.1",
-    "cookie": "= 0.1.0",
+    "cookie": "0.6.0",
     "pi-gpio": "= 0.0.2",
     "ping": "= 0.1.7",
     "wake_on_lan": "= 0.0.3",
